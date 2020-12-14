@@ -7,7 +7,8 @@
 - 🔭 I’m currently working on projects related to Data science, Data Visualization and Full stack Development.
 - 🌱 I’m currently learning AI and ML content.
 - 👯 I’m looking to collaborate for projects especially open source type (AI, ML, Data Science, Full stack Development).
-- 📫 How to reach me:
+<br>
+📫 Contact:
        <a href="https://www.linkedin.com/in/ranjith-kumar-mittapelli-927803112/">
     <img align="left" alt="Ranjith Kumar Mittapelli | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -20,7 +21,7 @@
   </a>
 
 
-
+<br>
 
 [![Ranjith Kumar Mittapelli's github stats](https://github-readme-stats.vercel.app/api?username=ranjith0430&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ranjith0430/github-readme-stats)
 
