@@ -15,7 +15,6 @@
 
 
 <br>
-📫 Contact:
        <a href="https://www.linkedin.com/in/ranjith-kumar-mittapelli-927803112/">
     <img align="left" alt="Ranjith Kumar Mittapelli | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
