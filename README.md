@@ -26,6 +26,4 @@
     <img align="left" alt="Ranjith Kumar Mittapelli | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-
-<br>
-[![](https://komarev.com/ghpvc/?username=ranjith0430&color=dc143c)]
+![](https://komarev.com/ghpvc/?username=ranjith0430&color=dc143c)
