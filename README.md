@@ -28,4 +28,4 @@
 
 
 <br>
-[![Profile views](https://komarev.com/ghpvc/?username=ranjith0430&color=dc143c)]
+[![](https://komarev.com/ghpvc/?username=ranjith0430&color=dc143c)]
