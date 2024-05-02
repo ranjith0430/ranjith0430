@@ -3,10 +3,10 @@
 
 **ranjith0430/ranjith0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- - :zap: I love mathematics, programming, technologies (AI, ML), Books and Cricket.
- - 🔭 I’m currently working on projects related to Data science, Data Visualization and Full stack Development.
+ - :zap: I love mathematics, programming, technologies, Books and Cricket.
+ - 🔭 I’m currently working on projects related to Full-stack Development, Data Science, and Data Visualization.
  - 🌱 I’m currently learning AI and ML content.
- - 👯 I’m looking to collaborate for projects especially open source type (AI, ML, Data Science, Full stack Development).
+ - 👯 I’m looking to collaborate on projects especially open source type (AI, ML, Data Science, Full stack Development).
 
 <br>
        <a href="https://www.linkedin.com/in/ranjith-kumar-mittapelli-927803112/">
