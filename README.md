@@ -5,8 +5,8 @@
 
  - :zap: I love mathematics, programming, technologies, Books and Cricket.
  - 🔭 I’m currently working on projects related to Full-stack Development, Data Science, and Data Visualization.
- - 🌱 I’m currently learning AI and ML content.
- - 👯 I’m looking to collaborate on projects especially open source type (AI, ML, Data Science, Full stack Development).
+ - 🌱 I’m currently working with Java and Springboot framework and learning AI and ML content in parallel.
+ - 👯 I’m looking to collaborate on projects especially open source type (Java, AI, ML, Data Science, Full stack Development).
 
 <br>
        <a href="https://www.linkedin.com/in/ranjith-kumar-mittapelli-927803112/">
